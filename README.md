@@ -28,5 +28,5 @@ I am a dedicated **MERN Stack Developer** specializing in architecting efficient
 Feel free to reach out to discuss prospective projects, full-time opportunities, or collaborative development:
 
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~018fe4eb391faf9579?mp_source=share)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krishna-baraiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-baraiya/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnabaraiya6201@gmail.com)
